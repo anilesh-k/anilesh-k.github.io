@@ -204,8 +204,10 @@ h2{
 }
 
 .fl-table td {
-    border-right: 1px solid #f8f8f8;
+    border-right: 1px solid #836666;
     font-size: 22px;
+    background-color: black;
+    color: white;
 }
 
 .fl-table thead th {
